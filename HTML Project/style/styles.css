@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+
+body {
+	background-color: #1597E5;
+	font-family: 'Sanchez', serif;
+}
+
+.content {
+	background-color: white;
+}
+
+.topNavBar a {
+	 padding: 16px;
+	 color: whitesmoke;
+}
+
+#Nav {
+	text-align: center;
+	padding-top: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.content h1 {
+	font-size: 30px;
+	padding-top: 10px;
+	margin-top: 8px;
+	text-align: center;
+}
+
+img {
+	width: 24%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #1597E5;
+	border-radius: 5%;
+	margin: 2% 0% 5% 10%;
+
+}
+
+aside {
+	float: right;
+	margin: 15% 10% 0% 0%;
+	text-align: center;
+	font-size: 22px;
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
+
+footer button a {
+	color: black;
+}
